@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyankak-13/little_monster_13/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Priyankak-13/little_monster_13/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
