@@ -12,8 +12,7 @@ class Solution {
                 char ch = say.charAt(i);
 
                 int count = 1;
-               while (i < say.length() - 1 &&
-       say.charAt(i) == say.charAt(i + 1)) {
+               while (i < say.length() - 1 &&  say.charAt(i) == say.charAt(i + 1)) {
                     count ++;
                     i++;
                 }
