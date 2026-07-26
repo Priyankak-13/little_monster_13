@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyankak-13/little_monster_13/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Priyankak-13/little_monster_13/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Priyankak-13/little_monster_13/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyankak-13/little_monster_13/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Priyankak-13/little_monster_13/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
