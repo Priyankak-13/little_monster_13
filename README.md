@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyankak-13/little_monster_13/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Priyankak-13/little_monster_13/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Priyankak-13/little_monster_13/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0136-single-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyankak-13/little_monster_13/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Priyankak-13/little_monster_13/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyankak-13/little_monster_13/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
