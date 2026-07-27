@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Priyankak-13/little_monster_13/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Priyankak-13/little_monster_13/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Priyankak-13/little_monster_13/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
