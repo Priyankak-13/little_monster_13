@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyankak-13/little_monster_13/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Priyankak-13/little_monster_13/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
