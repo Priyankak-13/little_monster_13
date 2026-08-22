@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Priyankak-13/little_monster_13/tree/master/0048-rotate-image) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Priyankak-13/little_monster_13/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
 |  |
 | ------- |
