@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Priyankak-13/little_monster_13/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Priyankak-13/little_monster_13/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyankak-13/little_monster_13/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Priyankak-13/little_monster_13/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyankak-13/little_monster_13/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
