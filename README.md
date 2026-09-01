@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Priyankak-13/little_monster_13/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyankak-13/little_monster_13/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
