@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Priyankak-13/little_monster_13/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Priyankak-13/little_monster_13/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Priyankak-13/little_monster_13/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
