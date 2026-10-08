@@ -3,8 +3,8 @@ class Solution {
         
         StringBuilder ans = new StringBuilder();
         int count = 0;
-
-        for(char ch: s.toCharArray()){
+    
+    for(char ch: s.toCharArray()){
 
             if (ch == '('){
                 if (count > 0) {
