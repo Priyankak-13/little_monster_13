@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Priyankak-13/little_monster_13/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Priyankak-13/little_monster_13/tree/master/0724-find-pivot-index) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyankak-13/little_monster_13/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Priyankak-13/little_monster_13/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
