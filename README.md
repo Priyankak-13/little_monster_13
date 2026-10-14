@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyankak-13/little_monster_13/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Priyankak-13/little_monster_13/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyankak-13/little_monster_13/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
