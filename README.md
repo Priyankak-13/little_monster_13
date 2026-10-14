@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Priyankak-13/little_monster_13/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Priyankak-13/little_monster_13/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Priyankak-13/little_monster_13/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0344-reverse-string) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Priyankak-13/little_monster_13/tree/master/3925-concatenate-array-with-reverse) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyankak-13/little_monster_13/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
