@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Priyankak-13/little_monster_13/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0344-reverse-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Priyankak-13/little_monster_13/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Priyankak-13/little_monster_13/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
