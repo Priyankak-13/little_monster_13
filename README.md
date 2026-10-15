@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Priyankak-13/little_monster_13/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyankak-13/little_monster_13/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Priyankak-13/little_monster_13/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Priyankak-13/little_monster_13/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Priyankak-13/little_monster_13/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Priyankak-13/little_monster_13/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Priyankak-13/little_monster_13/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyankak-13/little_monster_13/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
