@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyankak-13/little_monster_13/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Priyankak-13/little_monster_13/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Priyankak-13/little_monster_13/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Priyankak-13/little_monster_13/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Priyankak-13/little_monster_13/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0088-merge-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Priyankak-13/little_monster_13/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Priyankak-13/little_monster_13/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyankak-13/little_monster_13/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Priyankak-13/little_monster_13/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
