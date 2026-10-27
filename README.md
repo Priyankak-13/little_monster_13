@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Priyankak-13/little_monster_13/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyankak-13/little_monster_13/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyankak-13/little_monster_13/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Priyankak-13/little_monster_13/tree/master/0724-find-pivot-index) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Priyankak-13/little_monster_13/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyankak-13/little_monster_13/tree/master/0628-maximum-product-of-three-numbers) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyankak-13/little_monster_13/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyankak-13/little_monster_13/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyankak-13/little_monster_13/tree/master/0628-maximum-product-of-three-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Priyankak-13/little_monster_13/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
 |  |
