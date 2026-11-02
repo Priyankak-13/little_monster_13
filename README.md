@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyankak-13/little_monster_13/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyankak-13/little_monster_13/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Priyankak-13/little_monster_13/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/Priyankak-13/little_monster_13/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0287-find-the-duplicate-number) |
