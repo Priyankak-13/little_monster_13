@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Priyankak-13/little_monster_13/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Priyankak-13/little_monster_13/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyankak-13/little_monster_13/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyankak-13/little_monster_13/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priyankak-13/little_monster_13/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Priyankak-13/little_monster_13/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyankak-13/little_monster_13/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0416-partition-equal-subset-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priyankak-13/little_monster_13/tree/master/0303-range-sum-query-immutable) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
