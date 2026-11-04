@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyankak-13/little_monster_13/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyankak-13/little_monster_13/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyankak-13/little_monster_13/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Priyankak-13/little_monster_13/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Priyankak-13/little_monster_13/tree/master/0724-find-pivot-index) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
