@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Priyankak-13/little_monster_13/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyankak-13/little_monster_13/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Priyankak-13/little_monster_13/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0705-design-hashset](https://github.com/Priyankak-13/little_monster_13/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Priyankak-13/little_monster_13/tree/master/0724-find-pivot-index) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyankak-13/little_monster_13/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyankak-13/little_monster_13/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyankak-13/little_monster_13/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/Priyankak-13/little_monster_13/tree/master/0705-design-hashset) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyankak-13/little_monster_13/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priyankak-13/little_monster_13/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/Priyankak-13/little_monster_13/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyankak-13/little_monster_13/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Priyankak-13/little_monster_13/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Priyankak-13/little_monster_13/tree/master/0705-design-hashset) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0416-partition-equal-subset-sum) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Priyankak-13/little_monster_13/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
