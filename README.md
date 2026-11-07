@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyankak-13/little_monster_13/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyankak-13/little_monster_13/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Priyankak-13/little_monster_13/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Priyankak-13/little_monster_13/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyankak-13/little_monster_13/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Priyankak-13/little_monster_13/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Priyankak-13/little_monster_13/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Priyankak-13/little_monster_13/tree/master/0038-count-and-say) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Priyankak-13/little_monster_13/tree/master/0705-design-hashset) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyankak-13/little_monster_13/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
